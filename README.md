@@ -15,5 +15,5 @@ Features of that I want to include:
 4. The interface should be based on the colour blue to increase the amount of blue light,
    and the brightness should be maximum (in the morning, not during setting up the alarm).
 5. Another good design is to include a feature to help myself better fall asleep:
-   before sleeping, colour of the clock is set to warm automatically, 
+   before sleeping, colour of the clock becomes warm automatically, 
    and white noise is being played for 30 mins.
