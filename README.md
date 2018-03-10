@@ -10,6 +10,10 @@ Current problems:
 Features of that I want to include:
 1. Getting rid of that sonnze button.
 2. 5 sec countdown after cancelling the alarm to better motivate myself.
-3. Alarm starts with something gentle first.
+3. Alarm starts with something gentle first, and includes a voice stating the current time. 
+   It also voices out my to-do list afterwards.
 4. The interface should be based on the colour blue to increase the amount of blue light,
    and the brightness should be maximum (in the morning, not during setting up the alarm).
+5. Another good design is to include a feature to help myself better fall asleep:
+   before sleeping, colour of the clock is set to warm automatically, and white noise 
+   is being played for 30 mins.
