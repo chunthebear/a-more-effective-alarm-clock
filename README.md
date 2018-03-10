@@ -8,7 +8,7 @@ Current problems:
 2. Drowsiness and no motivation after hearing the alarm.
 
 Features of that I want to include:
-1. Getting rid of that snooze button.
+1. Getting rid of that snooze button (easiest thing to do ever.. just do not include it!).
 2. Alarm starts with something gentle first, and includes a voice stating the current time. 
    It also voices out my to-do list afterwards.
 3. 5 sec countdown after cancelling the alarm to better motivate myself.
